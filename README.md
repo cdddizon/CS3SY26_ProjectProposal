@@ -27,6 +27,17 @@ Main Features
  
 - Calculates the estimated age, and gets the decay curve
 
+Attributes and Methods
+
+- name
+
+- parent_ratio
+
+- half_life
+
+- calculate_age()
+
+- get_decay_curve()
 
 **Sample class Diagram from https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png:**
 
