@@ -39,6 +39,10 @@ Attributes and Methods
 
 - get_decay_curve()
 
+Interaction Between Classes
+
+MeteoritesSample is the data storage and handles the initialization of attributes, while DatingCalc handles all the methods such as computational logic and the formulas needed. The latter accepts the former as input. Separating them makes the program simpler.
+
 **Sample class Diagram from https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png:**
 
 ![Sample Diagram](https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png)
