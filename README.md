@@ -12,13 +12,21 @@ Chu, Diorella Ingrid L.
 ### Project Description:
 
 Project Overview and Need
+
 The application quickly computes dozens of rock samples' ages using a consistent, structured system. It addresses the problem of the likelihood of errors and tedious process from manually calculating entire datasets of measurements.
+
 System Components and Features
+
 - Classes
+
 – MeteoriteSample - This is to store the information of the meteorite sample the student inputs, or the info of any sample they choose from the archive
+
 – DatingCalc - This is to contain all the formulas and commands regarding the meteorite sample (basically all or most of the methods needed)
+
 - Main Features
+
  – Contains name of the meteorite sample, stores amount of parent isotope, and saves half-life of said isotope
+ 
  – Calculates the estimated age, and gets the decay curve
 
 
