@@ -5,9 +5,9 @@
 ### Project Title or Name of the Application	: Isotime
 ### Section			   	      : 9-Sodium
 ### Group Members			    : 
-Dizon, Catrice Daniele D.
-Bautista, Aubrey Rexie Angel D.
-Chu, Diorella Ingrid L.
+1. Dizon, Catrice Daniele D.
+2. Bautista, Aubrey Rexie Angel D.
+3. Chu, Diorella Ingrid L.
 ### Date (Proposal Date)  : Nov 19, 2026
 ### Project Description:
 
