@@ -1,8 +1,7 @@
 # CS3SY26_ProjectProposal by Aline Teresa Mendoza from CS Unit of PSHS
 
 
-## Project Proposal Template:
-cvbbbc
+## Project Proposal Template: Isotime
 ### Project Title or Name of the Application	:
 ### Section			   	      :
 ### Group Members			    :
