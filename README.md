@@ -44,6 +44,7 @@ Interaction Between Classes
 MeteoritesSample is the data storage and handles the initialization of attributes, while DatingCalc handles all the methods such as computational logic and the formulas needed. The latter accepts the former as input. Separating them makes the program simpler.
 
 Target users
+
 Scientists determining absolute ages for different rock/fossil samples, as well as high school STEM students. Relative dating only tells them whether a rock is older or younger than another, but radiometric dating, a kind of absolute dating, that gives a specifc age or range. While this method cannot be reliable alone, it helps provide a basis for cross-checking—which ultimately 
 
 **Sample class Diagram from https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png:**
