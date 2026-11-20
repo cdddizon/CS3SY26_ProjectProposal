@@ -51,6 +51,8 @@ Scientists determining absolute ages for different meteor samples, as well as hi
 
 ![Sample Diagram](https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png)
 
+<img width="213" height="317" alt="image" src="https://github.com/user-attachments/assets/84e98ae9-2797-465c-b128-22cfb2b32f90" />
+
 ### Goals:
 
 Describe the long term outcomes of your project followed by a couple of objectives to meet the goals stated in this paragraph
