@@ -53,7 +53,7 @@ Class Diagram
 
 ### Goals:
 
-Describe the long term outcomes of your project followed by a couple of objectives to meet the goals stated in this paragraph
+We aim for this project to grow from a classroom-level calculator to a larger-scaled learning platform for Earth Science and Chemistry-inclined learners. The application will be updated with an expanded meteorite archive, higher-capacity batch processing for larger datasets, and an improved user interface.
 
 - Objective 1:
 - Objective 2:
