@@ -55,8 +55,9 @@ Class Diagram
 
 We aim for this project to grow from a classroom-level calculator to a larger-scaled learning platform for Earth Science and Chemistry-inclined learners. The application will be updated with an expanded meteorite archive, higher-capacity batch processing for larger datasets, and an improved user interface.
 
-- Objective 1:
-- Objective 2:
-- Objective n:
+- Objective 1: Implement the MeteoriteSample and DatingCalc classes with validated attributes and a starter meteorite archive.
+- Objective 2: Automate radiometric age calculations and generation of decay curves. 
+- Objective 3: Structure sample storage and batch-processing methods for larger datasets.
+- Objective 4: Build a user-friendly interface that allows future updates without rewriting the foundational code logic.
 
 [Click here for Rubrics and Sample projects](https://docs.google.com/document/d/1xKd1CqK6DcNWS2_oJPBNtY5n3I3Hqiw8FY3W295Iqfk/edit?usp=sharing)
