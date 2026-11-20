@@ -47,6 +47,8 @@ Target users
 
 Scientists determining absolute ages for different meteor samples, as well as high school STEM students (or curious/bored people). Relative dating only tells them whether a rock is older or younger than another, but radiometric dating, a kind of absolute dating, that gives a specific age or range. While this method cannot be reliable alone, it helps provide a basis for cross-checking—which ultimately 
 
+Class Diagram
+
 <img width="211" height="318" alt="image" src="https://github.com/user-attachments/assets/1e882c14-5e1a-4d3c-b8ba-62b0a30a4ba9" />
 
 ### Goals:
